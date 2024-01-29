@@ -1,4 +1,4 @@
-# Attendance Monitoring System using Face Recognition
+# Face Recognition Based Attendance System
 
 It will be a two step mechanism. First, prior to face recognition we have to do face detection. Once, face detection has been performed successfully then only face recognition will be performed by using Principal Component Analysis (PCA).
 
